@@ -31,7 +31,7 @@ I'm also a svelte(kit) addict.
 - 🌱 I’m currently learning Solidity  
   
 
-- ❓ Ask me about anything related from PE~~N~~SN stacks to why Solidity makes me question my life choices.  
+- ❓ Ask me about anything related from PE~~R~~SN stacks to why Solidity makes me question my life choices.  
   
 
 - ⚡ Fun fact: Night Shift is basically my default vibe now  
