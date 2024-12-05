@@ -37,7 +37,7 @@ I'm also a svelte(kit) addict.
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/gradleless/static/images/niko-oneshot.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/Gradleless/Gradleless/refs/heads/main/static/niko-oneshot.gif" align="center" style="width: 100%" />
 </div>  
 
 
