@@ -25,7 +25,7 @@ I'm also a svelte(kit) addict.
 ## The Journey So Far
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Anhost and [Zeno](https://github.cim/zenokit/zeno)
+- 🔭 I’m currently working on Anhost and [Zeno](https://github.com/zenokit/zeno)
   
 
 - 🌱 I’m currently learning Solidity  
